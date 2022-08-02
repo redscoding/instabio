@@ -14,7 +14,7 @@ body{
 	opacity: 0;
 	filter: blur(10px);
 	transition: opacity 1s ease-in-out, filter 1s ease-in-out;
-	
+	position: relative;
 	
 }
 
