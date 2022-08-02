@@ -57,7 +57,7 @@ body{
 	background-color: rgba(162,154,150,0.5);
 	margin-top: 8px;
 	font-size:5px;
-	padding: 1em 1em;
+	padding: auto;
 	width: 40px;
 	height: 30px;
 	
